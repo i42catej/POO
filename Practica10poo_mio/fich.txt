@@ -1,0 +1,2 @@
+Cliente:Mariaaaaa;Gonzalez;1111111A;C/Bellavista 1;0
+Empleado:Juannnnn;Sin Miedo;3333333C;1500;0

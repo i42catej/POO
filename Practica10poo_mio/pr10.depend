@@ -1,0 +1,243 @@
+# depslib dependency file v1.0
+1399832395 source:d:\copia_todo_trabajo\universitarios\asignaturas\fundamentos\grados_2010_2011\infor_poo\practicas 13_14\practica10poo_mio\pr10\main.cpp
+	<cstdlib>
+	<iostream>
+	"Empleado.h"
+	"Cliente.h"
+	"PersonaUtil.h"
+	"Fecha.h"
+	"Pedido.h"
+	"Producto.h"
+	"Articulo.h"
+	"Servicio.h"
+	"ArticuloAlquilable.h"
+	"itemCSV.h"
+	"Mayor.h"
+	<vector>
+
+1399829359 d:\copia_todo_trabajo\universitarios\asignaturas\fundamentos\grados_2010_2011\infor_poo\practicas 13_14\practica10poo_mio\pr10\empleado.h
+	"Persona.h"
+	"itemCSV.h"
+
+1365750526 d:\copia_todo_trabajo\universitarios\asignaturas\fundamentos\grados_2010_2011\infor_poo\practicas 13_14\practica10poo_mio\pr10\persona.h
+	<string>
+	"Fecha.h"
+
+1394771260 d:\copia_todo_trabajo\universitarios\asignaturas\fundamentos\grados_2010_2011\infor_poo\practicas 13_14\practica10poo_mio\pr10\fecha.h
+	<ctime>
+	<string>
+	<stdlib.h>
+	<sstream>
+
+1399807871 d:\copia_todo_trabajo\universitarios\asignaturas\fundamentos\grados_2010_2011\infor_poo\practicas 13_14\practica10poo_mio\pr10\itemcsv.h
+	<string>
+
+1399806909 d:\copia_todo_trabajo\universitarios\asignaturas\fundamentos\grados_2010_2011\infor_poo\practicas 13_14\practica10poo_mio\pr10\cliente.h
+	"Persona.h"
+	"itemCSV.h"
+
+1399807113 d:\copia_todo_trabajo\universitarios\asignaturas\fundamentos\grados_2010_2011\infor_poo\practicas 13_14\practica10poo_mio\pr10\personautil.h
+	<string>
+	"Persona.h"
+	"itemCSV.h"
+
+1399832388 d:\copia_todo_trabajo\universitarios\asignaturas\fundamentos\grados_2010_2011\infor_poo\practicas 13_14\practica10poo_mio\pr10\pedido.h
+	"Fecha.h"
+	"Persona.h"
+	"Producto.h"
+	"Concepto.h"
+	<vector>
+
+1399758801 d:\copia_todo_trabajo\universitarios\asignaturas\fundamentos\grados_2010_2011\infor_poo\practicas 13_14\practica10poo_mio\pr10\producto.h
+	<string>
+
+1397067065 d:\copia_todo_trabajo\universitarios\asignaturas\fundamentos\grados_2010_2011\infor_poo\practicas 13_14\practica10poo_mio\pr10\concepto.h
+	"Producto.h"
+
+1399807296 d:\copia_todo_trabajo\universitarios\asignaturas\fundamentos\grados_2010_2011\infor_poo\practicas 13_14\practica10poo_mio\pr10\articulo.h
+	<iostream>
+	"Producto.h"
+
+1399807318 d:\copia_todo_trabajo\universitarios\asignaturas\fundamentos\grados_2010_2011\infor_poo\practicas 13_14\practica10poo_mio\pr10\servicio.h
+	<iostream>
+	"Producto.h"
+
+1399807296 d:\copia_todo_trabajo\universitarios\asignaturas\fundamentos\grados_2010_2011\infor_poo\practicas 13_14\practica10poo_mio\pr10\articuloalquilable.h
+	<iostream>
+	"Articulo.h"
+	"Servicio.h"
+
+1399832413 source:d:\copia_todo_trabajo\universitarios\asignaturas\fundamentos\grados_2010_2011\infor_poo\practicas 13_14\practica10poo_mio\pr10\pedido.cpp
+	"Pedido.h"
+	<iostream>
+
+1397070542 source:d:\copia_todo_trabajo\universitarios\asignaturas\fundamentos\grados_2010_2011\infor_poo\practicas 13_14\practica10poo_mio\pr10\persona.cpp
+	"Persona.h"
+	<iostream>
+	<sstream>
+
+1399806844 source:d:\copia_todo_trabajo\universitarios\asignaturas\fundamentos\grados_2010_2011\infor_poo\practicas 13_14\practica10poo_mio\pr10\personautil.cpp
+	<typeinfo>
+	"PersonaUtil.h"
+	"Cliente.h"
+	<iostream>
+	<fstream>
+
+1398609422 source:d:\copia_todo_trabajo\universitarios\asignaturas\fundamentos\grados_2010_2011\infor_poo\practicas 13_14\practica10poo_mio\pr10\producto.cpp
+	"Producto.h"
+	<iostream>
+
+1398609463 source:d:\copia_todo_trabajo\universitarios\asignaturas\fundamentos\grados_2010_2011\infor_poo\practicas 13_14\practica10poo_mio\pr10\servicio.cpp
+	"Servicio.h"
+	"Producto.h"
+
+1398609339 source:d:\copia_todo_trabajo\universitarios\asignaturas\fundamentos\grados_2010_2011\infor_poo\practicas 13_14\practica10poo_mio\pr10\articulo.cpp
+	"Articulo.h"
+	"Producto.h"
+
+1398615283 source:d:\copia_todo_trabajo\universitarios\asignaturas\fundamentos\grados_2010_2011\infor_poo\practicas 13_14\practica10poo_mio\pr10\articuloalquilable.cpp
+	"ArticuloAlquilable.h"
+	"Articulo.h"
+	"Servicio.h"
+
+1399806909 source:d:\copia_todo_trabajo\universitarios\asignaturas\fundamentos\grados_2010_2011\infor_poo\practicas 13_14\practica10poo_mio\pr10\cliente.cpp
+	"Cliente.h"
+
+1398615197 source:d:\copia_todo_trabajo\universitarios\asignaturas\fundamentos\grados_2010_2011\infor_poo\practicas 13_14\practica10poo_mio\pr10\concepto.cpp
+	"Concepto.h"
+	<iostream>
+
+1399806909 source:d:\copia_todo_trabajo\universitarios\asignaturas\fundamentos\grados_2010_2011\infor_poo\practicas 13_14\practica10poo_mio\pr10\empleado.cpp
+	"Empleado.h"
+
+1397080823 source:d:\copia_todo_trabajo\universitarios\asignaturas\fundamentos\grados_2010_2011\infor_poo\practicas 13_14\practica10poo_mio\pr10\fecha.cpp
+	"Fecha.h"
+	<iostream>
+
+1399762338 source:d:\copia_todo_trabajo\universitarios\asignaturas\fundamentos\grados_2010_2011\infor_poo\practicas 13_14\practica10poo_mio\pr10\itemcsv.cpp
+	"itemCSV.h"
+
+1399831652 d:\copia_todo_trabajo\universitarios\asignaturas\fundamentos\grados_2010_2011\infor_poo\practicas 13_14\practica10poo_mio\pr10\mayor.h
+
+1398609339 source:d:\copia_todo_trabajo\universitarios\asignaturas\fundamentos\grados_2010_2011\infor_poo\practicas 13_14\practica10poo_mio\articulo.cpp
+	"Articulo.h"
+	"Producto.h"
+
+1399807296 d:\copia_todo_trabajo\universitarios\asignaturas\fundamentos\grados_2010_2011\infor_poo\practicas 13_14\practica10poo_mio\articulo.h
+	<iostream>
+	"Producto.h"
+
+1399758801 d:\copia_todo_trabajo\universitarios\asignaturas\fundamentos\grados_2010_2011\infor_poo\practicas 13_14\practica10poo_mio\producto.h
+	<string>
+
+1398615283 source:d:\copia_todo_trabajo\universitarios\asignaturas\fundamentos\grados_2010_2011\infor_poo\practicas 13_14\practica10poo_mio\articuloalquilable.cpp
+	"ArticuloAlquilable.h"
+	"Articulo.h"
+	"Servicio.h"
+
+1399807296 d:\copia_todo_trabajo\universitarios\asignaturas\fundamentos\grados_2010_2011\infor_poo\practicas 13_14\practica10poo_mio\articuloalquilable.h
+	<iostream>
+	"Articulo.h"
+	"Servicio.h"
+
+1399807318 d:\copia_todo_trabajo\universitarios\asignaturas\fundamentos\grados_2010_2011\infor_poo\practicas 13_14\practica10poo_mio\servicio.h
+	<iostream>
+	"Producto.h"
+
+1399806909 source:d:\copia_todo_trabajo\universitarios\asignaturas\fundamentos\grados_2010_2011\infor_poo\practicas 13_14\practica10poo_mio\cliente.cpp
+	"Cliente.h"
+
+1399806909 d:\copia_todo_trabajo\universitarios\asignaturas\fundamentos\grados_2010_2011\infor_poo\practicas 13_14\practica10poo_mio\cliente.h
+	"Persona.h"
+	"itemCSV.h"
+
+1365750526 d:\copia_todo_trabajo\universitarios\asignaturas\fundamentos\grados_2010_2011\infor_poo\practicas 13_14\practica10poo_mio\persona.h
+	<string>
+	"Fecha.h"
+
+1399975919 d:\copia_todo_trabajo\universitarios\asignaturas\fundamentos\grados_2010_2011\infor_poo\practicas 13_14\practica10poo_mio\fecha.h
+	<ctime>
+	<string>
+	<stdlib.h>
+	<sstream>
+
+1399807871 d:\copia_todo_trabajo\universitarios\asignaturas\fundamentos\grados_2010_2011\infor_poo\practicas 13_14\practica10poo_mio\itemcsv.h
+	<string>
+
+1398615197 source:d:\copia_todo_trabajo\universitarios\asignaturas\fundamentos\grados_2010_2011\infor_poo\practicas 13_14\practica10poo_mio\concepto.cpp
+	"Concepto.h"
+	<iostream>
+
+1397067065 d:\copia_todo_trabajo\universitarios\asignaturas\fundamentos\grados_2010_2011\infor_poo\practicas 13_14\practica10poo_mio\concepto.h
+	"Producto.h"
+
+1399806909 source:d:\copia_todo_trabajo\universitarios\asignaturas\fundamentos\grados_2010_2011\infor_poo\practicas 13_14\practica10poo_mio\empleado.cpp
+	"Empleado.h"
+
+1399829359 d:\copia_todo_trabajo\universitarios\asignaturas\fundamentos\grados_2010_2011\infor_poo\practicas 13_14\practica10poo_mio\empleado.h
+	"Persona.h"
+	"itemCSV.h"
+
+1399976065 source:d:\copia_todo_trabajo\universitarios\asignaturas\fundamentos\grados_2010_2011\infor_poo\practicas 13_14\practica10poo_mio\fecha.cpp
+	"Fecha.h"
+	<iostream>
+	<string>
+
+1399762338 source:d:\copia_todo_trabajo\universitarios\asignaturas\fundamentos\grados_2010_2011\infor_poo\practicas 13_14\practica10poo_mio\itemcsv.cpp
+	"itemCSV.h"
+
+1399975209 source:d:\copia_todo_trabajo\universitarios\asignaturas\fundamentos\grados_2010_2011\infor_poo\practicas 13_14\practica10poo_mio\main.cpp
+	<cstdlib>
+	<iostream>
+	"Empleado.h"
+	"Cliente.h"
+	"PersonaUtil.h"
+	"Fecha.h"
+	"Pedido.h"
+	"Producto.h"
+	"Articulo.h"
+	"Servicio.h"
+	"ArticuloAlquilable.h"
+	"itemCSV.h"
+	"Mayor.h"
+	<vector>
+	<exception>
+
+1399807113 d:\copia_todo_trabajo\universitarios\asignaturas\fundamentos\grados_2010_2011\infor_poo\practicas 13_14\practica10poo_mio\personautil.h
+	<string>
+	"Persona.h"
+	"itemCSV.h"
+
+1399833300 d:\copia_todo_trabajo\universitarios\asignaturas\fundamentos\grados_2010_2011\infor_poo\practicas 13_14\practica10poo_mio\pedido.h
+	"Fecha.h"
+	"Persona.h"
+	"Producto.h"
+	"Concepto.h"
+	<vector>
+
+1399908154 d:\copia_todo_trabajo\universitarios\asignaturas\fundamentos\grados_2010_2011\infor_poo\practicas 13_14\practica10poo_mio\mayor.h
+
+1399975209 source:d:\copia_todo_trabajo\universitarios\asignaturas\fundamentos\grados_2010_2011\infor_poo\practicas 13_14\practica10poo_mio\pedido.cpp
+	"Pedido.h"
+	<iostream>
+
+1397070542 source:d:\copia_todo_trabajo\universitarios\asignaturas\fundamentos\grados_2010_2011\infor_poo\practicas 13_14\practica10poo_mio\persona.cpp
+	"Persona.h"
+	<iostream>
+	<sstream>
+
+1399806844 source:d:\copia_todo_trabajo\universitarios\asignaturas\fundamentos\grados_2010_2011\infor_poo\practicas 13_14\practica10poo_mio\personautil.cpp
+	<typeinfo>
+	"PersonaUtil.h"
+	"Cliente.h"
+	<iostream>
+	<fstream>
+
+1398609422 source:d:\copia_todo_trabajo\universitarios\asignaturas\fundamentos\grados_2010_2011\infor_poo\practicas 13_14\practica10poo_mio\producto.cpp
+	"Producto.h"
+	<iostream>
+
+1398609463 source:d:\copia_todo_trabajo\universitarios\asignaturas\fundamentos\grados_2010_2011\infor_poo\practicas 13_14\practica10poo_mio\servicio.cpp
+	"Servicio.h"
+	"Producto.h"
+

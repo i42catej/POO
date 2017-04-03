@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="pr10" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/pr10" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/pr10" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="Articulo.cpp" />
+		<Unit filename="Articulo.h" />
+		<Unit filename="ArticuloAlquilable.cpp" />
+		<Unit filename="ArticuloAlquilable.h" />
+		<Unit filename="Cliente.cpp" />
+		<Unit filename="Cliente.h" />
+		<Unit filename="Concepto.cpp" />
+		<Unit filename="Concepto.h" />
+		<Unit filename="Empleado.cpp" />
+		<Unit filename="Empleado.h" />
+		<Unit filename="Fecha.cpp" />
+		<Unit filename="Fecha.h" />
+		<Unit filename="Mayor.h" />
+		<Unit filename="Pedido.cpp" />
+		<Unit filename="Pedido.h" />
+		<Unit filename="Persona.cpp" />
+		<Unit filename="Persona.h" />
+		<Unit filename="PersonaUtil.cpp" />
+		<Unit filename="PersonaUtil.h" />
+		<Unit filename="Producto.cpp" />
+		<Unit filename="Producto.h" />
+		<Unit filename="Servicio.cpp" />
+		<Unit filename="Servicio.h" />
+		<Unit filename="itemCSV.cpp" />
+		<Unit filename="itemCSV.h" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

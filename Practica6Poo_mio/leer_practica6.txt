@@ -1,0 +1,16 @@
+Novedades:
+
+    Nueva clase Producto
+    Modificaciones clase Pedido:
+        campo atendidoPor para asociar a la persona que atendió el pedido. Métodos get/set correspondientes.
+        Campo productos como vector de punteros a productos. El tamaño de este vector se puede especificar en el constructor por defecto (o tendrá 10 si no se indica nada)
+        método nuevoProducto(p) para añadir al vector productos del pedido el puntero al producto pasado (agregación)
+        método getProducto(i) que devuelve la dirección de memoria del i-esimo producto del pedido (o null si no existe)
+        método buscarProducto(id) que devuelve la dirección de memoria del producto con id indicado si existe en el pedido (null si no está)
+    Se añade el método fromCSV a la clase Persona.
+    Módulo PersonaUtil, se añade la función recuperaCSV() para recuperar personas en formato CSV en un fichero y almacenarlas en un vector previamente creado
+    Modificaciones en programa principal main.cpp para
+        crear un vector de punteros a pedidos, inicializar tres productos y asignarlos a pedidos existentes
+        Se recupera el vector de personas de un fichero CSV previamente guardado y se carga en un vector auxiliar para visualizarlo posteriormente y ver que ha funcionado correctamente.
+
+Las clases Fecha y Persona son las mismas que en la Sesión 5 12-13

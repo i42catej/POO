@@ -1,0 +1,11 @@
+Sesión 5 12-13
+Novedades:
+
+    Nueva clase Pedidos: Dispone de un campo de tipo enumerado (estado). El tipo enumerado Estado se define en el espacio de nombres de la misma clase para poder pasarlo como parámetro. Observar las restricciones en el método setEstado según las indicaciones del enunciado
+        Se añade la función de clase totalImportePedidos() a la clase Pedidos como función de utilidad para realizar el cálculo indicado sobre un vector de pedidos. Recordad que las clases definen también espacios de nombre por su cuenta, luego se le puede dar un uso igual que al espacio de nombres específico PersonaUtil. No obstante, seguimos evitando en las clases funciones con detalles relacionados con E/S (lo cual no ocurre con esta función en particular)
+    La clase Fecha se ha modificado para obtener la fecha del sistema en el constructor por defecto
+    Se añade el método toCSV a la clase Persona.
+    Módulo PersonaUtil, se añade la función guardaCSV() para guardar un vector de personas en un fichero en formato CSV
+    Modificaciones en programa principal main.cpp para
+        crear un vector de punteros a pedidos, inicializar dos pedidos, asignarlos a una persona, obtener el importe total de los pedidos creados. También se libera convenientemente el vector de pedidos y los objetos creados al final
+        Se almacena el vector de personas en un fichero en formato CSV con la función del apartado anterior
